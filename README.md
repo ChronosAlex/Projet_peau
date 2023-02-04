@@ -12,6 +12,7 @@
 <br /> Second problème qualité des images de la caméra
 <br />
 ## Edge Impulse
+<br /> Lien edge impulse : https://studio.edgeimpulse.com/studio/183407
 <br />Base de données utilisé : https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic 
 <br />J'ai utilisé celle concernant l'actinic keratosis.
 <br />Pour les photos normales j'ai utilisé mon téléphone. J'ai pris 8 photos pour l'entrainement et 2 pour le test.
