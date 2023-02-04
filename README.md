@@ -15,5 +15,11 @@
 <br />Base de données utilisé : https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic 
 <br />J'ai utilisé celle concernant l'actinic keratosis.
 <br />Pour les photos normales j'ai utilisé mon téléphone. J'ai pris 8 photos pour l'entrainement et 2 pour le test.
-![2023-02-04 (1)](https://user-images.githubusercontent.com/84152339/216779382-a7946efc-0d8f-4fa9-94fd-6b624b958e43.png)
 <br />
+![2023-02-04 (1)](https://user-images.githubusercontent.com/84152339/216779382-a7946efc-0d8f-4fa9-94fd-6b624b958e43.png)
+<br />On réalise ensuite le modèle d'entrainement 
+<br />
+![2023-02-03 (1)](https://user-images.githubusercontent.com/84152339/216779495-c54f8805-1e20-471b-ac6b-fc1cb6d38393.png)
+<br />
+<br />Voici les résultats du modèle :
+![2023-02-04 (2)](https://user-images.githubusercontent.com/84152339/216779589-095c50d9-20d3-486c-b4a9-cbb77b5e3fa4.png)
