@@ -23,3 +23,10 @@
 <br />
 <br />Voici les résultats du modèle :
 ![2023-02-04 (2)](https://user-images.githubusercontent.com/84152339/216779589-095c50d9-20d3-486c-b4a9-cbb77b5e3fa4.png)
+<br />
+### Arduino
+<br /> Edge impulse nous gènère ensuite un code qui peut permettre d'essayer de tester le modèle avec la caméra.
+<br /> Malheuresement le modèle est beaucoup trop large pour la mémoire de l'arduino. 
+<br /> J'obtiens le résultat suivant :
+![fe4c57e4-fd8c-41f6-96e0-69f595019669](https://user-images.githubusercontent.com/84152339/216779886-c8bfb1af-feac-4dab-af71-b88ac5eb73a4.jpg)
+
