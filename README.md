@@ -1,6 +1,6 @@
 # **Projet_Final_TinyML**
 
-<br /> ## Problèmes rencontrés
+## Problèmes rencontrés
 <br />Il m'est impossible de me connecter à ma carte pour essayer de prendre des données avec celle-ci depuis edge impulse.
 <br />J'ai le dernier firmware, ma carte est bien flashée et j'arrive bien à me connecter sur edge impulse.
 
